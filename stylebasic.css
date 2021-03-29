@@ -1,0 +1,72 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    text-align:center;
+    background-image: url('https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/05/shutterstock_1556534186.jpg');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  .title-01 {
+    width: 300px; /* Largura do container do texto*/
+    font-size: 30px; /* Tamanho da fonte */
+    font-weight: bold; /* Grossura de fonte */
+    font-family: "Arial", sans-serif; /* Estilo de fonte */
+    text-align: justify; /* Alinhamento*/
+    margin-top: 300;
+    margin-left: 200;
+    color:#ffffff
+  }
+  
+  .title-02 {
+    width: 300px; /* Largura do container do texto*/
+    font-size: 30px; /* Tamanho da fonte */
+    font-weight: bold; /* Grossura de fonte */
+    font-family: "Arial", sans-serif; /* Estilo de fonte */
+    text-align: justify; /* Alinhamento*/
+    margin-top: -60;
+    margin-left: 800;
+    color:#ffffff 
+  }
+
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+  
+  
+  .filme1-logo
+  {
+    width: 400px;
+    position: absolute;
+    top: 180px;
+    left:150px;
+  }
+  .filme2-logo
+  {
+    width: 400px;
+    position: absolute;
+    top: 178px;
+    right:190px;
+  }

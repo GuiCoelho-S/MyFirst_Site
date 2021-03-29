@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    text-align:center;
+    background-image: url('https://images4.alphacoders.com/835/835468.png');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  .title {
+    width: 600px; /* Largura do container do texto*/
+    font-size: 30px; /* Tamanho da fonte */
+    font-weight: bold; /* Grossura de fonte */
+    font-family: "font-family:Century Gothic", sans-serif; /* Estilo de fonte */
+    text-align: start; /* Alinhamento*/
+    margin-top: 30px;
+    margin-left: 10px;  
+    color:cyan
+  }
+  .subtitle {
+    width: 900px; /* Largura do container do texto*/
+    font-size: 15px; /* Tamanho da fonte */
+    font-weight: bold; /* Grossura de fonte */
+    font-family: "Arial", sans-serif; /* Estilo de fonte */
+    text-align: justify; /* Alinhamento*/
+    margin-top: 40px;
+    margin-left: 30px;
+    color:#000000
+  }
+
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+  
+.video {
+  width: 490px;
+  height: 300px;
+  position: absolute;
+  top: 270px;
+  left:30px;
+}
+  
